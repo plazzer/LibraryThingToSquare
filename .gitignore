@@ -6,4 +6,4 @@ __pycache__/
 retrieve_book_details.py
 # Byte-compiled / optimized / DLL files
 *.py[cod]
-
+Ecalidraw_files/
